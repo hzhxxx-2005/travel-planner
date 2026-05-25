@@ -1,0 +1,220 @@
+{
+  "city": "杭州",
+  "places": [
+    {
+      "name": "断桥残雪",
+      "place_type": "景点",
+      "area": "西湖区",
+      "route_group": "西湖经典路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 60,
+      "score": 9,
+      "description": "适合作为西湖步行路线的起点，是第一次来杭州比较常见的打卡点。"
+    },
+    {
+      "name": "白堤",
+      "place_type": "自然",
+      "area": "西湖区",
+      "route_group": "西湖经典路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 60,
+      "score": 8,
+      "description": "适合从断桥一路步行游览，节奏轻松，适合拍西湖湖景。"
+    },
+    {
+      "name": "平湖秋月",
+      "place_type": "自然",
+      "area": "西湖区",
+      "route_group": "西湖经典路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 45,
+      "score": 8,
+      "description": "适合和白堤一起安排，路线顺路，适合慢节奏游览。"
+    },
+    {
+      "name": "曲院风荷",
+      "place_type": "自然",
+      "area": "西湖区",
+      "route_group": "西湖经典路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 8,
+      "description": "适合夏季赏荷，也适合安排在西湖北线或西线游览中。"
+    },
+    {
+      "name": "苏堤",
+      "place_type": "自然",
+      "area": "西湖区",
+      "route_group": "西湖经典路线",
+      "route_order": 5,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 8,
+      "description": "适合散步和拍照，能体验比较完整的西湖湖景。"
+    },
+    {
+      "name": "雷峰塔",
+      "place_type": "文化",
+      "area": "西湖区",
+      "route_group": "西湖经典路线",
+      "route_order": 6,
+      "travel_scope": "市区",
+      "tags": [
+        "经典景点",
+        "历史文化",
+        "拍照",
+        "夜景"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 8,
+      "description": "适合下午或傍晚安排，可以俯瞰西湖，适合第一次来杭州的游客。"
+    },
+    {
+      "name": "湖滨银泰",
+      "place_type": "购物",
+      "area": "上城区",
+      "route_group": "西湖经典路线",
+      "route_order": 7,
+      "travel_scope": "市区",
+      "tags": [
+        "购物",
+        "美食",
+        "夜景"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合晚上吃饭、购物，也方便看西湖夜景。"
+    },
+    {
+      "name": "灵隐寺",
+      "place_type": "文化",
+      "area": "西湖区",
+      "route_group": "灵隐寺龙井路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "寺庙",
+        "经典景点",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 150,
+      "score": 9,
+      "description": "杭州代表性寺庙景点，适合文化游、祈福和轻松游。"
+    },
+    {
+      "name": "法喜寺",
+      "place_type": "文化",
+      "area": "西湖区",
+      "route_group": "灵隐寺龙井路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "寺庙",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 90,
+      "score": 8,
+      "description": "近年很受年轻游客欢迎，适合拍照和寺庙文化体验。"
+    },
+    {
+      "name": "中国茶叶博物馆",
+      "place_type": "文化",
+      "area": "西湖区",
+      "route_group": "灵隐寺龙井路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "室内",
+        "轻松",
+        "亲子"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合了解杭州茶文化，也适合雨天、亲子和慢节奏旅行。"
+    },
+    {
+      "name": "龙井村",
+      "place_type": "自然",
+      "area": "西湖区",
+      "route_group": "灵隐寺龙井路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "美食",
+        "轻松",
+        "拍照"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合喝茶、散步和体验杭州山水氛围。"
+    },
+    {
+      "name": "梅家坞",
+      "place_type": "自然",
+      "area": "西湖区",
+      "route_group": "灵隐寺龙井路线",
+      "route_order": 5,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "美食",
+        "轻松",
+        "拍照"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 7,
+      "description": "适合茶园散步、吃农家菜和拍照，节奏比较轻松。"
+    }
+  ]
+}

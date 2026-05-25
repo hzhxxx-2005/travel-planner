@@ -1,0 +1,792 @@
+{
+  "city": "重庆",
+  "places": [
+    {
+      "name": "解放碑",
+      "place_type": "购物",
+      "area": "渝中区",
+      "route_group": "渝中半岛经典路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "经典景点",
+        "购物",
+        "美食",
+        "拍照"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 60,
+      "score": 9,
+      "description": "适合作为重庆市区路线的起点，周边商业和餐饮集中，第一次来重庆比较方便。"
+    },
+    {
+      "name": "八一好吃街",
+      "place_type": "美食",
+      "area": "渝中区",
+      "route_group": "渝中半岛经典路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "美食",
+        "购物",
+        "经典景点"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 8,
+      "description": "适合在解放碑附近顺路安排，适合小吃打卡和轻松逛吃。"
+    },
+    {
+      "name": "山城步道",
+      "place_type": "文化",
+      "area": "渝中区",
+      "route_group": "渝中半岛经典路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合体验重庆山城地形和老城街巷，适合 citywalk 用户。"
+    },
+    {
+      "name": "十八梯",
+      "place_type": "文化",
+      "area": "渝中区",
+      "route_group": "渝中半岛经典路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "美食",
+        "拍照",
+        "夜景"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合感受重庆老城更新后的街区氛围，也适合拍照和逛吃。"
+    },
+    {
+      "name": "洪崖洞",
+      "place_type": "夜游",
+      "area": "渝中区",
+      "route_group": "渝中半岛经典路线",
+      "route_order": 5,
+      "travel_scope": "市区",
+      "tags": [
+        "夜景",
+        "经典景点",
+        "拍照",
+        "美食"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 120,
+      "score": 10,
+      "description": "适合晚上安排，是重庆夜景和游客打卡的代表地点。"
+    },
+    {
+      "name": "千厮门大桥",
+      "place_type": "夜游",
+      "area": "渝中区",
+      "route_group": "渝中半岛经典路线",
+      "route_order": 6,
+      "travel_scope": "市区",
+      "tags": [
+        "夜景",
+        "拍照",
+        "经典景点"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 60,
+      "score": 8,
+      "description": "适合拍洪崖洞和两江夜景，建议和洪崖洞一起安排。"
+    },
+    {
+      "name": "长江索道",
+      "place_type": "交通",
+      "area": "渝中区",
+      "route_group": "长江索道南滨路路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "经典景点",
+        "夜景",
+        "拍照"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 90,
+      "score": 9,
+      "description": "适合体验重庆跨江交通和立体城市景观，建议避开高峰排队时间。"
+    },
+    {
+      "name": "龙门浩老街",
+      "place_type": "文化",
+      "area": "南岸区",
+      "route_group": "长江索道南滨路路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合从长江索道南岸端顺路游览，老街氛围和拍照体验较好。"
+    },
+    {
+      "name": "上新街",
+      "place_type": "美食",
+      "area": "南岸区",
+      "route_group": "长江索道南滨路路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "美食",
+        "轻松",
+        "拍照"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 60,
+      "score": 6,
+      "description": "适合作为龙门浩老街和南滨路之间的过渡点，适合短暂停留。"
+    },
+    {
+      "name": "南滨路",
+      "place_type": "夜游",
+      "area": "南岸区",
+      "route_group": "长江索道南滨路路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "夜景",
+        "美食",
+        "轻松"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合晚上看渝中半岛江景，也适合吃饭和散步。"
+    },
+    {
+      "name": "弹子石老街",
+      "place_type": "夜游",
+      "area": "南岸区",
+      "route_group": "长江索道南滨路路线",
+      "route_order": 5,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "美食",
+        "夜景",
+        "拍照"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合晚上逛街和看江景，可以和南滨路一起安排。"
+    },
+    {
+      "name": "李子坝轻轨穿楼",
+      "place_type": "交通",
+      "area": "渝中区",
+      "route_group": "李子坝鹅岭路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "经典景点",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 45,
+      "score": 8,
+      "description": "适合第一次来重庆打卡，停留时间不需要太长。"
+    },
+    {
+      "name": "佛图关公园",
+      "place_type": "自然",
+      "area": "渝中区",
+      "route_group": "李子坝鹅岭路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合和李子坝一起安排，春季和轻松散步体验更好。"
+    },
+    {
+      "name": "鹅岭二厂",
+      "place_type": "景点",
+      "area": "渝中区",
+      "route_group": "李子坝鹅岭路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "拍照",
+        "美食",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合文艺拍照和咖啡休闲，是年轻游客常见打卡点。"
+    },
+    {
+      "name": "鹅岭公园",
+      "place_type": "自然",
+      "area": "渝中区",
+      "route_group": "李子坝鹅岭路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "自然风景",
+        "夜景",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合看城市景观和散步，节奏比热门景区更轻松。"
+    },
+    {
+      "name": "磁器口古镇",
+      "place_type": "文化",
+      "area": "沙坪坝区",
+      "route_group": "磁器口沙坪坝路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "美食",
+        "经典景点",
+        "购物"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 150,
+      "score": 8,
+      "description": "适合体验重庆古镇和小吃，但节假日人流通常较多。"
+    },
+    {
+      "name": "渣滓洞",
+      "place_type": "文化",
+      "area": "沙坪坝区",
+      "route_group": "磁器口沙坪坝路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "红色文化",
+        "亲子"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合红色文化和历史教育路线，建议和白公馆一起安排。"
+    },
+    {
+      "name": "白公馆",
+      "place_type": "文化",
+      "area": "沙坪坝区",
+      "route_group": "磁器口沙坪坝路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "红色文化",
+        "亲子"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合和渣滓洞一起游览，整体偏历史文化体验。"
+    },
+    {
+      "name": "三峡广场",
+      "place_type": "购物",
+      "area": "沙坪坝区",
+      "route_group": "磁器口沙坪坝路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "美食",
+        "购物",
+        "轻松"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 90,
+      "score": 6,
+      "description": "适合沙坪坝路线结束后吃饭和休息。"
+    },
+    {
+      "name": "重庆中国三峡博物馆",
+      "place_type": "文化",
+      "area": "渝中区",
+      "route_group": "博物馆红岩路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "室内",
+        "亲子",
+        "经典景点"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 150,
+      "score": 9,
+      "description": "适合了解重庆和三峡文化，也适合雨天和亲子用户。"
+    },
+    {
+      "name": "重庆人民大礼堂",
+      "place_type": "文化",
+      "area": "渝中区",
+      "route_group": "博物馆红岩路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "拍照",
+        "经典景点"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 60,
+      "score": 8,
+      "description": "适合和三峡博物馆一起安排，建筑辨识度高。"
+    },
+    {
+      "name": "人民广场",
+      "place_type": "景点",
+      "area": "渝中区",
+      "route_group": "博物馆红岩路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "轻松",
+        "拍照"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 45,
+      "score": 6,
+      "description": "适合在三峡博物馆和人民大礼堂之间短暂停留。"
+    },
+    {
+      "name": "红岩革命纪念馆",
+      "place_type": "文化",
+      "area": "渝中区",
+      "route_group": "博物馆红岩路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "红色文化",
+        "亲子"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 7,
+      "description": "适合红色文化和历史主题路线，建议安排半天内游览。"
+    },
+    {
+      "name": "观音桥步行街",
+      "place_type": "购物",
+      "area": "江北区",
+      "route_group": "观音桥九街路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "购物",
+        "美食",
+        "经典景点"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合购物和吃饭，适合市区轻松路线。"
+    },
+    {
+      "name": "北仓文创街区",
+      "place_type": "景点",
+      "area": "江北区",
+      "route_group": "观音桥九街路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "拍照",
+        "美食",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合文艺拍照和咖啡休闲，可以和观音桥一起安排。"
+    },
+    {
+      "name": "九街",
+      "place_type": "夜游",
+      "area": "江北区",
+      "route_group": "观音桥九街路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "美食",
+        "夜景",
+        "购物"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 120,
+      "score": 7,
+      "description": "适合晚上吃饭和夜生活体验，不适合想安静休息的用户。"
+    },
+    {
+      "name": "南山一棵树观景台",
+      "place_type": "夜游",
+      "area": "南岸区",
+      "route_group": "南山夜景路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "夜景",
+        "经典景点",
+        "拍照"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 90,
+      "score": 9,
+      "description": "适合看重庆城市夜景，建议作为夜景路线核心点。"
+    },
+    {
+      "name": "黄桷垭老街",
+      "place_type": "文化",
+      "area": "南岸区",
+      "route_group": "南山夜景路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "美食",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合南山路线中的白天或傍晚过渡，老街氛围比较轻松。"
+    },
+    {
+      "name": "老君洞",
+      "place_type": "文化",
+      "area": "南岸区",
+      "route_group": "南山夜景路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "历史文化",
+        "寺庙",
+        "夜景",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合喜欢道观文化和山城视角的游客。"
+    },
+    {
+      "name": "壹华里夜景公园",
+      "place_type": "夜游",
+      "area": "南岸区",
+      "route_group": "南山夜景路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "夜景",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合情侣和拍照用户，和南山夜景路线比较匹配。"
+    },
+    {
+      "name": "四川美术学院黄桷坪校区",
+      "place_type": "文化",
+      "area": "九龙坡区",
+      "route_group": "黄桷坪文艺路线",
+      "route_order": 1,
+      "travel_scope": "市区",
+      "tags": [
+        "拍照",
+        "历史文化",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合建筑和文艺路线用户，整体节奏较轻松。"
+    },
+    {
+      "name": "黄桷坪涂鸦艺术街",
+      "place_type": "景点",
+      "area": "九龙坡区",
+      "route_group": "黄桷坪文艺路线",
+      "route_order": 2,
+      "travel_scope": "市区",
+      "tags": [
+        "拍照",
+        "轻松",
+        "经典景点"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 90,
+      "score": 8,
+      "description": "适合拍照和 citywalk，是重庆文艺路线常见地点。"
+    },
+    {
+      "name": "交通茶馆",
+      "place_type": "美食",
+      "area": "九龙坡区",
+      "route_group": "黄桷坪文艺路线",
+      "route_order": 3,
+      "travel_scope": "市区",
+      "tags": [
+        "美食",
+        "历史文化",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 60,
+      "score": 7,
+      "description": "适合体验老重庆茶馆氛围，适合慢节奏用户。"
+    },
+    {
+      "name": "铁路四村",
+      "place_type": "景点",
+      "area": "九龙坡区",
+      "route_group": "黄桷坪文艺路线",
+      "route_order": 4,
+      "travel_scope": "市区",
+      "tags": [
+        "拍照",
+        "轻松",
+        "历史文化"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 6,
+      "description": "适合喜欢小众街区和老城氛围的用户。"
+    },
+    {
+      "name": "武隆天生三桥",
+      "place_type": "自然",
+      "area": "武隆区",
+      "route_group": "武隆自然路线",
+      "route_order": 1,
+      "travel_scope": "远郊",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 180,
+      "score": 10,
+      "description": "适合自然风景和地貌景观爱好者，距离主城区较远，建议单独安排一天。"
+    },
+    {
+      "name": "龙水峡地缝",
+      "place_type": "自然",
+      "area": "武隆区",
+      "route_group": "武隆自然路线",
+      "route_order": 2,
+      "travel_scope": "远郊",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "拍照"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 150,
+      "score": 8,
+      "description": "适合和天生三桥一起安排，整体偏自然峡谷景观。"
+    },
+    {
+      "name": "仙女山国家森林公园",
+      "place_type": "自然",
+      "area": "武隆区",
+      "route_group": "武隆自然路线",
+      "route_order": 3,
+      "travel_scope": "远郊",
+      "tags": [
+        "自然风景",
+        "亲子",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 180,
+      "score": 8,
+      "description": "适合草原森林和轻松休闲，夏季避暑体验较好。"
+    },
+    {
+      "name": "印象武隆",
+      "place_type": "文化",
+      "area": "武隆区",
+      "route_group": "武隆自然路线",
+      "route_order": 4,
+      "travel_scope": "远郊",
+      "tags": [
+        "历史文化",
+        "夜景",
+        "演出"
+      ],
+      "best_time": "晚上",
+      "duration_minutes": 120,
+      "score": 7,
+      "description": "适合晚上安排，适合作为武隆一日或两日路线的收尾。"
+    },
+    {
+      "name": "大足石刻宝顶山景区",
+      "place_type": "文化",
+      "area": "大足区",
+      "route_group": "大足石刻文化路线",
+      "route_order": 1,
+      "travel_scope": "远郊",
+      "tags": [
+        "历史文化",
+        "经典景点",
+        "亲子"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 180,
+      "score": 10,
+      "description": "适合文化深度游和世界遗产主题路线，建议单独安排半天以上。"
+    },
+    {
+      "name": "大足石刻北山景区",
+      "place_type": "文化",
+      "area": "大足区",
+      "route_group": "大足石刻文化路线",
+      "route_order": 2,
+      "travel_scope": "远郊",
+      "tags": [
+        "历史文化",
+        "经典景点",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 8,
+      "description": "适合和宝顶山石刻一起安排，偏文化和石刻艺术体验。"
+    },
+    {
+      "name": "大足石刻博物馆",
+      "place_type": "文化",
+      "area": "大足区",
+      "route_group": "大足石刻文化路线",
+      "route_order": 3,
+      "travel_scope": "远郊",
+      "tags": [
+        "历史文化",
+        "室内",
+        "亲子"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合补充了解大足石刻背景，也适合雨天和亲子用户。"
+    },
+    {
+      "name": "金佛山",
+      "place_type": "自然",
+      "area": "南川区",
+      "route_group": "金佛山自然路线",
+      "route_order": 1,
+      "travel_scope": "远郊",
+      "tags": [
+        "自然风景",
+        "经典景点",
+        "亲子"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 240,
+      "score": 8,
+      "description": "适合自然风光和避暑路线，距离主城区较远，建议单独安排一天。"
+    },
+    {
+      "name": "金佛山索道",
+      "place_type": "交通",
+      "area": "南川区",
+      "route_group": "金佛山自然路线",
+      "route_order": 2,
+      "travel_scope": "远郊",
+      "tags": [
+        "自然风景",
+        "拍照",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 90,
+      "score": 7,
+      "description": "适合搭配金佛山主景区游览，能降低步行强度。"
+    },
+    {
+      "name": "重庆园博园",
+      "place_type": "亲子",
+      "area": "渝北区",
+      "route_group": "亲子轻松路线",
+      "route_order": 1,
+      "travel_scope": "周边",
+      "tags": [
+        "自然风景",
+        "亲子",
+        "轻松"
+      ],
+      "best_time": "上午",
+      "duration_minutes": 180,
+      "score": 7,
+      "description": "适合亲子和轻松散步，节奏比市区热门打卡点更舒适。"
+    },
+    {
+      "name": "重庆欢乐谷",
+      "place_type": "亲子",
+      "area": "渝北区",
+      "route_group": "亲子轻松路线",
+      "route_order": 2,
+      "travel_scope": "周边",
+      "tags": [
+        "亲子",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 240,
+      "score": 7,
+      "description": "适合亲子和年轻用户，如果偏好历史文化可以降低优先级。"
+    },
+    {
+      "name": "照母山森林公园",
+      "place_type": "自然",
+      "area": "渝北区",
+      "route_group": "亲子轻松路线",
+      "route_order": 3,
+      "travel_scope": "周边",
+      "tags": [
+        "自然风景",
+        "亲子",
+        "轻松"
+      ],
+      "best_time": "下午",
+      "duration_minutes": 120,
+      "score": 6,
+      "description": "适合市区内轻松散步和亲子活动。"
+    }
+  ]
+}
